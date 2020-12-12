@@ -1,0 +1,4 @@
+#Thu Dec 10 16:56:03 COT 2020
+base.0=C\:\\Users\\Dell\\Documents\\UDLA\\SEMINARIO DE SISTEMAS\\cuy\\fluterdbygeo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
